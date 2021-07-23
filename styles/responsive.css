@@ -1,0 +1,8 @@
+@media only screen and (max-width: 500px) {
+  .content-wrapper {
+    padding: 0 !important;
+  }
+  .card .card-body {
+    padding: 20px 5% !important;
+  }
+}
