@@ -41,6 +41,7 @@ export default class MyDocument extends Document {
             rel="stylesheet"
             href="/vendors/summernote/dist/summernote-bs4.css"
           />
+          <link rel="manifest" href="/manifest.json" />
         </Head>
         <body className="aidebar-fixed">
           <Main />
@@ -56,6 +57,7 @@ export default class MyDocument extends Document {
           <script src="/vendors/tinymce/themes/modern/theme.js"></script>
           <script src="/vendors/summernote/dist/summernote-bs4.min.js"></script>
           <script src=""></script>
+
           <NextScript />
         </body>
       </Html>
