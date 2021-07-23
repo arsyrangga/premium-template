@@ -3,17 +3,17 @@
   "name": "CMS Website Garda",
   "icons": [
     {
-      "src": "images/favicon.ico",
+      "src": "images/file-icons/64/005-database.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "images/favicon.ico",
+      "src": "images/file-icons/256/005-database.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/favicon.ico",
+      "src": "images/file-icons/512/005-database.png",
       "type": "image/png",
       "sizes": "512x512"
     }
