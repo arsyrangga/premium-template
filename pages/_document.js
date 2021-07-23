@@ -12,7 +12,7 @@ export default class MyDocument extends Document {
 
   render() {
     return (
-      <Html>
+      <Html lang="id" translate="no">
         <Head>
           <link
             rel="stylesheet"

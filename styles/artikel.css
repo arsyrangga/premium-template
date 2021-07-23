@@ -83,6 +83,6 @@
 @media (max-width: 500px) {
   .artikel-popup {
     padding: 5px;
-    min-height: 600px;
+    min-height: 400px;
   }
 }
